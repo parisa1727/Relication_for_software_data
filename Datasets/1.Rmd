@@ -1,0 +1,38 @@
+---
+title: "Reducing False Alarm in Software Defect Prediction by Decision Threshold Optimization"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Outline
+
+-Introduction
+-Background
+-Information about the original study
+-Information about replication
+   . Motivation
+   . Level of interaction with the original authors
+   . Change of original study
+
+- Comparison of replication results with the original results
+- Conclusion across studies 
+## Slide with Bullets
+
+
+
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
